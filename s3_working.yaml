@@ -1,3 +1,7 @@
+# Fixed S3 CloudFormation template bugs
+# Revision 1
+# 2026-05-26
+
 AWSTemplateFormatVersion: 2019-09-09
 Resorces:
   S3Bucket:
